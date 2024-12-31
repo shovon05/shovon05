@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shovon05
-- 👀 I’m interested in learning
+- 👀 I’m interested in learning new stuff
 - 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on OS Projects 
 - 📫 How to reach me? mail me
